@@ -1,0 +1,26 @@
+									Aptitude Assignment 4
+
+1. A leak in the bottom of a tank can empty the full tank in 6 hours. An inlet pipe fills
+water at the rate of 4 litres per minute. When the tank is full, the inlet is opened,
+and due to the leak, the tank is empty in 8 hours. Find the capacity of the tank.
+Ans.1152 liters.
+
+
+2. Of the 1000 inhabitants in a town, 60% are males, 20% are literate. If 25% of all the
+inhabitants 25%, are literate, then what percentage of females are literate?
+Ans.12.5%
+
+
+3. In an examination 80% candidates passed in English and 85% candidates passed
+in Mathematics. If 73% of candidates passed in both these subjects, what percent
+of candidates failed in both the subjects?
+Ans.8%
+
+4. The monthly income of a person is 13,500, and his monthly expenditure is 9,000.
+Next year's income increased by 14%, and his expenditure increased by 7%. Find
+percent increase in his savings is?
+Ans.28%
+
+5. 49 pumps can empty a tank in 10 days, working 10 hours a day. if 70 pumps are
+used for 7 hours each day then in how many days the tank can be emptied?
+Ans.approximately 143 days

@@ -1,0 +1,23 @@
+									Aptitude Assignment 2
+
+1. What quantity of water should be added to the milk water mixture so that
+the milk water ratio changes from 2:3 to 4:11. The quantity of milk in the
+mixture is 40 litres?
+Ans. We have to add 255 liters of water to change the milk water ratio to 2:3 to 4:11.
+
+2. Linear equation 2x+3y=0 meets the x & y-axis at the point?
+Ans.it meets at the origin ,which is the point(0,0).
+
+3. a & b are positive integers such that a^2-b^=19. Find a & b?
+Ans. rearranged the given equation a^2-b^2=19
+      a=10 b=9
+
+4. Find a^+b^3+c^3+3abc , where a+b+c=5 & , a^2+b^2+c^2=10?
+Ans.consider a=1,b=2,c=2 so ans will be 29
+
+5. Sum of two, two-digit numbers is a perfect square. The digits of the first
+two-digit number are two consecutive positive integers; also, when the digits
+of the first number are reversed, the second number is formed. Find these
+numbers & the square root of their sum.
+Ans.possible pairs of two digit numbers are (177,182),(419,424)and (752,757)
+     square roots are 26.89,41.0, 38.86
